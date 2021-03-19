@@ -1,1 +1,1 @@
-Sitemap: https://dmytro.ai/blog/sitemap.xml
+Sitemap: https://blog.dmytro.ai/sitemap.xml
