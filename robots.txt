@@ -1,1 +1,1 @@
-Sitemap: https://ducha-aiki.github.io/personal-blog/sitemap.xml
+Sitemap: https://dmytro.ai/blog/sitemap.xml
